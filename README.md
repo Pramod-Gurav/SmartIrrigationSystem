@@ -22,7 +22,7 @@ This project automates indoor plant watering using a soil moisture sensor, relay
 - Waits 10 seconds and repeats
 
 ## 📋 Code
-Check `SmartIrrigationSystem.ino`
+Check `SmartIrrigationSystem.ino.ino`
 
 ## 🔐 License
 MIT License
